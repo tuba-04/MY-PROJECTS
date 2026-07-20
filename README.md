@@ -1,3 +1,4 @@
+
 # 📂 PROJECT-EXPERIENCE
 ### 1. 🛒 E-commerce Sales Analysis (UK Market)
 **เครื่องมือที่ใช้:** Jupyter Notebook (Python), CSV, Power BI
@@ -28,7 +29,6 @@
 **เครื่องมือที่ใช้:** Excel,Looker Studio
 
 **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Satisfaction-Analytics)
-
-
-
-### 📬 **Contact & Profile:** (https://github.com/tuba-04)
+---
+## 📗PORTFOLIO PRESENTATION
+**เข้าดูผลงาน:** (https://github.com/tuba-04/PORTFOLIO-PRESENTATION)
